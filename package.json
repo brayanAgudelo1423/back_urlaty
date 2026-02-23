@@ -2,10 +2,10 @@
   "name": "back-urlaty",
   "version": "1.0.0",
   "description": "Backend joyería Urlaty - email bienvenida, admin, productos",
-  "main": "server.js",
+  "main": "data/server.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js",
+    "start": "node data/server.js",
     "dev": "node --watch server.js",
     "seed:joyeria": "node scripts/extract-joyeria-products.js"
   },
