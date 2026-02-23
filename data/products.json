@@ -1,0 +1,14 @@
+[
+  {"id":1,"name":"Combo one dios","price":310000,"category":"Oro laminado 18K","image":"/joyeria/combito.jpeg","description":"Combo pulsera, dos dijes y cadena"},
+  {"id":2,"name":"Pulsera RX grande","price":185000,"category":"Oro laminado 18K","image":"/joyeria/rolex grande.jpeg","description":"Pulsera RX grande con balineria"},
+  {"id":3,"name":"3 carriles","price":120000,"category":"Oro laminado 18K","image":"/joyeria/3k.jpeg","description":"3 carriles elegante"},
+  {"id":4,"name":"Pulseras","price":85000,"category":"Oro laminado 18K","image":"/joyeria/pulseras viej.jpeg","description":"Pulseras "},
+  {"id":5,"name":"Combo aguila","price":260000,"category":"Oro laminado 18K","image":"/joyeria/aguila comb.jpeg","description":"cadena, dije y aretes "},
+  {"id":6,"name":"pulsera san miguel","price":105000,"category":"Oro laminado 18K","image":"/joyeria/pulsera sanVieja.jpeg","description":"Pulsera san miguel en oro laminado 18K."},
+  {"id":7,"name":"cadena virgen de guadalupe","price":180000,"category":"Oro laminado 18K","image":"/joyeria/virgenVieja.jpeg","description":"cadena con dije de la virgen "},
+  {"id":8,"name":"combo cruz gucci","price":200000,"category":"Oro laminado 18K","image":"/joyeria/cruz con gucci.jpeg","description":"cadena con dije y aretes gucci"},
+  {"id":9,"name":"combo pulsera aretes","price":150000,"category":"Oro laminado 18K","image":"/joyeria/comboViejo.jpeg","description":"pulsera diamantada con aretes "},
+  {"id":10,"name":"pulsera crucificada","price":110000,"category":"Oro laminado 18K","image":"/joyeria/ComboPul.jpeg","description":"pulsera con dije crucificado "},
+  {"id":11,"name":"combo virgen san miguel","price":165000,"category":"Oro laminado 18K","image":"/joyeria/combo san.jpeg","description":"combo pareja de proteccion"},
+  {"id":12,"name":"combo Estelar","price":160000,"category":"Oro laminado 18K","image":"/joyeria/pulseraHiloVieja.jpeg","description":"combo pulsera, dije, aretes"}
+]

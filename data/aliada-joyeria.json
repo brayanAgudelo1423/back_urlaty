@@ -1,0 +1,1892 @@
+[
+  {
+    "id": 8,
+    "name": "combo cruz gucci",
+    "price": 200000,
+    "image": "/joyeria/cruz con gucci.jpeg",
+    "description": "cadena con dije y aretes gucci",
+    "category": "oro",
+    "tipo": "combos"
+  },
+  {
+    "id": 3,
+    "name": "Pulsera 3 carriles",
+    "price": 120000,
+    "image": "/joyeria/3k.jpeg",
+    "description": "3 carriles elegante",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 3001,
+    "name": "topos Virgen de guadalupe ref1",
+    "price": 150000,
+    "image": "/joyeria/oro laminado/to (1).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 3002,
+    "name": "topos Oso ref1",
+    "price": 80000,
+    "image": "/joyeria/oro laminado/to (2).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 3003,
+    "name": "topos Cangrejo ref1",
+    "price": 65000,
+    "image": "/joyeria/oro laminado/to (3).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 3004,
+    "name": "topos Huella ref1",
+    "price": 65000,
+    "image": "/joyeria/oro laminado/to (4).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 3005,
+    "name": "topos Hueso",
+    "price": 80000,
+    "image": "/joyeria/oro laminado/to (5).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 3006,
+    "name": "topos Perro ref1",
+    "price": 45000,
+    "image": "/joyeria/oro laminado/to (6).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 3007,
+    "name": "topos Cruz ref1",
+    "price": 60000,
+    "image": "/joyeria/oro laminado/to (7).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 3008,
+    "name": "topos alas ref1",
+    "price": 85000,
+    "image": "/joyeria/oro laminado/to (8).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 3009,
+    "name": "topos Cereza ref1",
+    "price": 70000,
+    "image": "/joyeria/oro laminado/to (9).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 3010,
+    "name": "topos Caballo ref1",
+    "price": 90000,
+    "image": "/joyeria/oro laminado/to (10).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 3011,
+    "name": "topos Cruz ref2",
+    "price": 60000,
+    "image": "/joyeria/oro laminado/to (11).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 3012,
+    "name": "topos Cruz ref3",
+    "price": 55000,
+    "image": "/joyeria/oro laminado/to (12).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 3013,
+    "name": "topos Cactus ref1",
+    "price": 49000,
+    "image": "/joyeria/oro laminado/to (13).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 3014,
+    "name": "topos largones",
+    "price": 70000,
+    "image": "/joyeria/oro laminado/to (14).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 3015,
+    "name": "topos Dino ref1",
+    "price": 49000,
+    "image": "/joyeria/oro laminado/to (15).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 3016,
+    "name": "topos libelula ref1",
+    "price": 85000,
+    "image": "/joyeria/oro laminado/to (16).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 3017,
+    "name": "topos Cruz ref4",
+    "price": 70000,
+    "image": "/joyeria/oro laminado/to (17).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 3018,
+    "name": "topos Caballo pequeños ref2",
+    "price": 49000,
+    "image": "/joyeria/oro laminado/to (10).jpeg",
+    "description": "Oro laminado 18K, Elegantes para el uso diario",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 5,
+    "name": "Combo aguila",
+    "price": 260000,
+    "image": "/joyeria/aguila comb.jpeg",
+    "description": "cadena, dije y aretes",
+    "category": "oro",
+    "tipo": "combos"
+  },
+  {
+    "id": 10,
+    "name": "pulsera crucificada",
+    "price": 110000,
+    "image": "/joyeria/ComboPul.jpeg",
+    "description": "pulsera con dije crucificado",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 1,
+    "name": "Combo one dios",
+    "price": 310000,
+    "image": "/joyeria/combito.jpeg",
+    "description": "Combo pulsera, dos dijes y cadena",
+    "category": "oro",
+    "tipo": "combos"
+  },
+  {
+    "id": 7,
+    "name": "cadena virgen de guadalupe",
+    "price": 180000,
+    "image": "/joyeria/virgenVieja.jpeg",
+    "description": "cadena con dije de la virgen",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 2,
+    "name": "Pulsera RX grande",
+    "price": 185000,
+    "image": "/joyeria/rolex grande.jpeg",
+    "description": "Pulsera RX grande con balineria",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 11,
+    "name": "combo virgen san miguel",
+    "price": 165000,
+    "image": "/joyeria/combo san.jpeg",
+    "description": "combo pareja de proteccion",
+    "category": "oro",
+    "tipo": "combos"
+  },
+  {
+    "id": 6,
+    "name": "pulsera san miguel",
+    "price": 105000,
+    "image": "/joyeria/pulsera sanVieja.jpeg",
+    "description": "Pulsera san miguel en oro laminado 18K.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 4,
+    "name": "Pulseras",
+    "price": 85000,
+    "image": "/joyeria/pulseras viej.jpeg",
+    "description": "Pulseras",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 9,
+    "name": "combo pulsera aretes",
+    "price": 170000,
+    "image": "/joyeria/comboViejo.jpeg",
+    "description": "pulsera diamantada con aretes",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 901,
+    "name": "cadena Lazo 50CM ref1",
+    "price": 299900,
+    "image": "/joyeria/oro laminado/cad (1).jpeg",
+    "description": "para darle stylo a tu presencia",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 902,
+    "name": "cadena inter 60CM ref1",
+    "price": 260000,
+    "image": "/joyeria/oro laminado/cad (2).jpeg",
+    "description": "para darle stylo a tu presencia",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 903,
+    "name": "cadena chinesca 50CM ref1",
+    "price": 540000,
+    "image": "/joyeria/oro laminado/cad (3).jpeg",
+    "description": "para darle stylo a tu presencia",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 904,
+    "name": "cadena Militar 45CM REF1",
+    "price": 130000,
+    "image": "/joyeria/oro laminado/cad (4).jpeg",
+    "description": "para darle stylo a tu presencia",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 905,
+    "name": "cadena Lazo 50CM ref2",
+    "price": 350000,
+    "image": "/joyeria/oro laminado/cad (5).jpeg",
+    "description": "para darle stylo a tu presencia",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 906,
+    "name": "cadena Poli 50CM REF1",
+    "price": 260000,
+    "image": "/joyeria/oro laminado/cad (6).jpeg",
+    "description": "para darle stylo a tu presencia",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 907,
+    "name": "cadena Chester 50CM REF1",
+    "price": 170000,
+    "image": "/joyeria/oro laminado/cad (7).jpeg",
+    "description": "para darle stylo a tu presencia",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 908,
+    "name": "cadena Gucci 60CM REF1",
+    "price": 699000,
+    "image": "/joyeria/oro laminado/cad (8).jpeg",
+    "description": "para darle stylo a tu presencia",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 909,
+    "name": "cadena Militar Gruesa 50CM REF2",
+    "price": 399000,
+    "image": "/joyeria/oro laminado/cad (9).jpeg",
+    "description": "50CM sin dije.",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 910,
+    "name": "cadena Avion REF1",
+    "price": 170000,
+    "image": "/joyeria/oro laminado/cad (10).jpeg",
+    "description": "para darle stylo a tu presencia",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 911,
+    "name": "cadena virgen",
+    "price": 170000,
+    "image": "/joyeria/oro laminado/cad (11).jpeg",
+    "description": "para darle stylo a tu presencia",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 912,
+    "name": "cadena chinesca Gruesa 60CM ref2",
+    "price": 680000,
+    "image": "/joyeria/oro laminado/cad (12).jpeg",
+    "description": "60 CM",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 913,
+    "name": "cadena lazo gruesa  60CM ref2",
+    "price": 340000,
+    "image": "/joyeria/oro laminado/cad (13).jpeg",
+    "description": "para darle stylo a tu presencia",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 21,
+    "name": "topos teddy",
+    "price": 90000,
+    "image": "/joyeria/oro laminado/oro17.jpeg",
+    "description": "oro laminado 18K.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 22,
+    "name": "aretes van cleef",
+    "price": 120000,
+    "image": "/joyeria/oro laminado/orouno.jpeg",
+    "description": "oro laminado 18K",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 23,
+    "name": "candongas",
+    "price": 85000,
+    "image": "/joyeria/oro laminado/orodos.jpeg",
+    "description": "Brillo elegante con acabado dorado.",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 24,
+    "name": "candongas con circones",
+    "price": 110000,
+    "image": "/joyeria/oro laminado/orotres.jpeg",
+    "description": "Diseño minimalista en oro laminado.",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 25,
+    "name": "topos alas",
+    "price": 85000,
+    "image": "/joyeria/oro laminado/orocuatro.jpeg",
+    "description": "oro laminado 18K",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 26,
+    "name": "pulsera san benito",
+    "price": 190000,
+    "image": "/joyeria/oro laminado/oroseis.jpeg",
+    "description": "oro laminado 18k",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 101,
+    "name": "topos mariposa",
+    "price": 90000,
+    "image": "/joyeria/oro laminado/oro18.jpeg",
+    "description": "Oro laminado 18K",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 200,
+    "name": "topos virgen del carmen",
+    "price": 90000,
+    "image": "/joyeria/oro laminado/100.jpeg",
+    "description": "Oro laminado 18K con acabado premium.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 201,
+    "name": "pareja cruz",
+    "price": 80000,
+    "image": "/joyeria/oro laminado/101.jpeg",
+    "description": "Oro laminado 18K con brillo duradero.",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 202,
+    "name": "topos versace",
+    "price": 90000,
+    "image": "/joyeria/oro laminado/oro45.jpeg",
+    "description": "Diseño elegante en oro laminado 18K.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 203,
+    "name": "anillo 3 carriles",
+    "price": 70000,
+    "image": "/joyeria/oro laminado/anillo3c.jpeg",
+    "description": "Acabado premium con tono dorado.",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 204,
+    "name": "Anillo doble carril",
+    "price": 120000,
+    "image": "/joyeria/oro laminado/oro47.jpeg",
+    "description": "balines diamantados en oro laminado 18K.",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 205,
+    "name": "combo intercalado anillo y pulsera",
+    "price": 189900,
+    "image": "/joyeria/oro laminado/oro48.jpeg",
+    "description": "Estilo moderno en oro laminado 18K.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 206,
+    "name": "pulsera 3 carriles diamantada",
+    "price": 349900,
+    "image": "/joyeria/oro laminado/oro49.jpeg",
+    "description": "Detalle fino con brillo intenso.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 207,
+    "name": "pulsera gucci con dos dijes",
+    "price": 240000,
+    "image": "/joyeria/oro laminado/oro50.jpeg",
+    "description": "Diseño clasico en oro laminado.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 208,
+    "name": "pulsera para los bebes",
+    "price": 59900,
+    "image": "/joyeria/oro laminado/oro51.jpeg",
+    "description": "Pieza elegante para el bebe de la casa.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 209,
+    "name": "combo ref2 anillo y pulsera",
+    "price": 180000,
+    "image": "/joyeria/oro laminado/oro52.jpeg",
+    "description": "pulsera y anillo diamantado",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 210,
+    "name": "pulsera neopreno con balines",
+    "price": 65000,
+    "image": "/joyeria/oro laminado/oro53.jpeg",
+    "description": "pulido en oro laminado neopreno",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 211,
+    "name": "topos balin",
+    "price": 99900,
+    "image": "/joyeria/oro laminado/oro54.jpeg",
+    "description": "topo balin diamantado",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 212,
+    "name": "topos virgen de guadalupe",
+    "price": 80000,
+    "image": "/joyeria/oro laminado/oro55.jpeg",
+    "description": "Brillo elegante.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 213,
+    "name": "topos gucci",
+    "price": 85000,
+    "image": "/joyeria/oro laminado/oro56.jpeg",
+    "description": "Estilo clasico oro laminado 18K.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 214,
+    "name": "topos pies",
+    "price": 85000,
+    "image": "/joyeria/oro laminado/oro57.jpeg",
+    "description": "muy bonito para uso diario.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 215,
+    "name": "topos RX",
+    "price": 85000,
+    "image": "/joyeria/oro laminado/oro58.jpeg",
+    "description": "topos moderno RX oro laminado 18K.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 216,
+    "name": "3 pulseras proteccion",
+    "price": 85000,
+    "image": "/joyeria/oro laminado/3ojo.jpeg",
+    "description": "familiar.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 217,
+    "name": "topos san miguel arcangel",
+    "price": 90000,
+    "image": "/joyeria/oro laminado/oro60.jpeg",
+    "description": "Brillo premium para uso diario.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 218,
+    "name": "anillo intercalado",
+    "price": 45000,
+    "image": "/joyeria/oro laminado/oro61.jpeg",
+    "description": "anillo intercalado",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 219,
+    "name": "virgen de guadalupe roja",
+    "price": 90000,
+    "image": "/joyeria/oro laminado/oro62.jpeg",
+    "description": "Oro laminado 18K con detalle clasico.",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 220,
+    "name": "san miguel arcangel",
+    "price": 90000,
+    "image": "/joyeria/oro laminado/oro63.jpeg",
+    "description": "con balin liso",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 221,
+    "name": "pulsera intercalada neopre",
+    "price": 149900,
+    "image": "/joyeria/oro laminado/oro64.jpeg",
+    "description": "Estilo moderno en oro laminado 18K.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 222,
+    "name": "virgen de guadalupe negra",
+    "price": 90000,
+    "image": "/joyeria/oro laminado/oro65.jpeg",
+    "description": "Detalle fino con acabado brillante.",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 223,
+    "name": "pulsera cruz",
+    "price": 89900,
+    "image": "/joyeria/oro laminado/oro66.jpeg",
+    "description": "Brillo duradero y estilo elegante.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 224,
+    "name": "cadena virgen",
+    "price": 149000,
+    "image": "/joyeria/oro laminado/oro67.jpeg",
+    "description": "muy bonita y apetecida",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 225,
+    "name": "pareja neopreno",
+    "price": 49900,
+    "image": "/joyeria/oro laminado/oro68.jpeg",
+    "description": "Pieza elegante con acabado pulido.",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 226,
+    "name": "pulsera ADN",
+    "price": 25000,
+    "image": "/joyeria/oro laminado/oro69.jpeg",
+    "description": "Oro laminado 18K con estilo clasico.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 227,
+    "name": "pulsera ojo",
+    "price": 30000,
+    "image": "/joyeria/oro laminado/oro70.jpeg",
+    "description": "Pieza fina con acabado dorado.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 228,
+    "name": "pulsera rosa",
+    "price": 59900,
+    "image": "/joyeria/oro laminado/oro71.jpeg",
+    "description": "para dama muy bonita",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 229,
+    "name": "pulsera pareja",
+    "price": 130000,
+    "image": "/joyeria/oro laminado/oro72.jpeg",
+    "description": "idela para pareja.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 230,
+    "name": "pulsera full balines",
+    "price": 149000,
+    "image": "/joyeria/oro laminado/oro74.jpeg",
+    "description": "Diseño clasico con brillo sutil.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 231,
+    "name": "pulsera rosa ref2",
+    "price": 45000,
+    "image": "/joyeria/oro laminado/oro75.jpeg",
+    "description": "Pieza premium con tono dorado.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 232,
+    "name": "pulsera intercalada full balines",
+    "price": 99900,
+    "image": "/joyeria/oro laminado/oro76.jpeg",
+    "description": "Brillo intenso para un look elegante.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 233,
+    "name": "pareja ref3",
+    "price": 105000,
+    "image": "/joyeria/oro laminado/oro77.jpeg",
+    "description": "Acabado pulido con estilo moderno.",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 234,
+    "name": "pulsera dije RX",
+    "price": 88000,
+    "image": "/joyeria/oro laminado/oro78.jpeg",
+    "description": "Pieza fina con brillo duradero.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 235,
+    "name": "pulsera balines #4",
+    "price": 80000,
+    "image": "/joyeria/oro laminado/oro79.jpeg",
+    "description": "acabado premium.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 236,
+    "name": "pareja full balines",
+    "price": 280000,
+    "image": "/joyeria/oro laminado/oro80.jpeg",
+    "description": "Diseño elegante en oro laminado.",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 237,
+    "name": "tejido medio macrame",
+    "price": 75000,
+    "image": "/joyeria/oro laminado/oro81.jpeg",
+    "description": "Brillo sutil con acabado refinado.",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 238,
+    "name": "pulsera dije aguila",
+    "price": 80000,
+    "image": "/joyeria/oro laminado/oro82.jpeg",
+    "description": "Oro laminado 18K con detalle clasico.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 239,
+    "name": "combo medio macra con pulsera y anillo",
+    "price": 70000,
+    "image": "/joyeria/oro laminado/oro83.jpeg",
+    "description": "combo muy apetecido.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 240,
+    "name": "topos san benito",
+    "price": 90000,
+    "image": "/joyeria/oro laminado/oro84.jpeg",
+    "description": "Diseño moderno de proteccion.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 241,
+    "name": "topos coffee con circon",
+    "price": 84900,
+    "image": "/joyeria/oro laminado/oro85.jpeg",
+    "description": "Pieza elegante con acabado premium.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 242,
+    "name": "pulsera con herraje virgen",
+    "price": 55000,
+    "image": "/joyeria/oro laminado/oro86.jpeg",
+    "description": "Brillo intenso con estilo sofisticado.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 243,
+    "name": "candonga prem2",
+    "price": 11000,
+    "image": "/joyeria/oro laminado/oro87.jpeg",
+    "description": "Acabado pulido y brillo sutil.",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 244,
+    "name": "candonga prem3",
+    "price": 65000,
+    "image": "/joyeria/oro laminado/oro88.jpeg",
+    "description": "Diseño clasico en oro laminado 18K.",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 245,
+    "name": "candonga prem4",
+    "price": 75000,
+    "image": "/joyeria/oro laminado/oro89.jpeg",
+    "description": "Pieza fina con acabado dorado.",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 102,
+    "name": "topos pez",
+    "price": 80000,
+    "image": "/joyeria/oro laminado/oro19.jpeg",
+    "description": "Oro laminado 18K con brillo duradero.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 103,
+    "name": "topos trebol",
+    "price": 90000,
+    "image": "/joyeria/oro laminado/oro20.jpeg",
+    "description": "oro laminado 18K.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 104,
+    "name": "pulsera neopreno pareja",
+    "price": 85000,
+    "image": "/joyeria/oro laminado/oro21.jpeg",
+    "description": "pareja",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 105,
+    "name": "pulsera ref 1",
+    "price": 85000,
+    "image": "/joyeria/oro laminado/oro22.jpeg",
+    "description": "Pieza fina con acabado brillante.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 106,
+    "name": "topos corona",
+    "price": 90000,
+    "image": "/joyeria/oro laminado/oro23.jpeg",
+    "description": "Estilo moderno en oro laminado 18K.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 107,
+    "name": "topos estrella de mar",
+    "price": 95000,
+    "image": "/joyeria/oro laminado/oro24.jpeg",
+    "description": "topos caballo de mar",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 108,
+    "name": "aretes carro",
+    "price": 90000,
+    "image": "/joyeria/oro laminado/oro25.jpeg",
+    "description": "Diseño clasico en oro laminado.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 109,
+    "name": "pulsera diamantada",
+    "price": 165000,
+    "image": "/joyeria/oro laminado/oro26.jpeg",
+    "description": "oro laminado 18k",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 110,
+    "name": "pulsera pareja cruz",
+    "price": 160000,
+    "image": "/joyeria/oro laminado/oro27.jpeg",
+    "description": "diamantado con herraje pareja",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 111,
+    "name": "pulsera visionaria",
+    "price": 140000,
+    "image": "/joyeria/oro laminado/oro28.jpeg",
+    "description": "Acabado pulido en oro laminado.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 112,
+    "name": "pulsera avion ref1",
+    "price": 75000,
+    "image": "/joyeria/oro laminado/oro30.jpeg",
+    "description": "Diseño premium con tono dorado.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 113,
+    "name": "pulsera atletico nacional",
+    "price": 49900,
+    "image": "/joyeria/oro laminado/oro31.jpeg",
+    "description": "oro laminado 18K",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 114,
+    "name": "pulsera Once caldas",
+    "price": 49900,
+    "image": "/joyeria/oro laminado/oro32.jpeg",
+    "description": "Once caldas",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 115,
+    "name": "pulsera con piedras",
+    "price": 22000,
+    "image": "/joyeria/oro laminado/oro33.jpeg",
+    "description": "oro laminado 18K con piedras",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 116,
+    "name": "pulsera avion ref2",
+    "price": 90000,
+    "image": "/joyeria/oro laminado/oro34.jpeg",
+    "description": "Acabado dorado con estilo moderno.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 117,
+    "name": "pulsera once caldas ref2",
+    "price": 38000,
+    "image": "/joyeria/oro laminado/oro35.jpeg",
+    "description": "Diseño ligero en oro laminado.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 118,
+    "name": "aretes con circon",
+    "price": 90000,
+    "image": "/joyeria/oro laminado/oro36.jpeg",
+    "description": "Brillo premium para uso diario.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 119,
+    "name": "candongas premium",
+    "price": 140000,
+    "image": "/joyeria/oro laminado/oro37.jpeg",
+    "description": "oro laminado 18k con circones premium",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 120,
+    "name": "cadena gucci gruesa ref1",
+    "price": 390000,
+    "image": "/joyeria/oro laminado/oro38.jpeg",
+    "description": "Oro laminado 18K con detalle clasico.",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 121,
+    "name": "cadena chinesca gruesa",
+    "price": 360000,
+    "image": "/joyeria/oro laminado/oro39.jpeg",
+    "description": "Acabado premium con brillo sutil.",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 122,
+    "name": "pulsera avion ref3",
+    "price": 80000,
+    "image": "/joyeria/oro laminado/oro40.jpeg",
+    "description": "Estilo moderno en oro laminado 18K.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 123,
+    "name": "pulsera avion ref4",
+    "price": 85000,
+    "image": "/joyeria/oro laminado/oro41.jpeg",
+    "description": "Detalle fino en oro laminado 18K.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 124,
+    "name": "topos billante",
+    "price": 75000,
+    "image": "/joyeria/oro laminado/oro42.jpeg",
+    "description": "estilo elegante.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 125,
+    "name": "topos corazon",
+    "price": 85000,
+    "image": "/joyeria/oro laminado/oro43.jpeg",
+    "description": "oro laminado 18K con diseño romántico.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 126,
+    "name": "topos balin",
+    "price": 75000,
+    "image": "/joyeria/oro laminado/oro44.jpeg",
+    "description": "oro laminado 18K con diseño balin.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 127,
+    "name": "combo RX",
+    "price": 260000,
+    "image": "/joyeria/oro laminado/orocatorce.jpeg",
+    "description": "anillo y pulsera RX con acabado dorado.",
+    "category": "oro",
+    "tipo": "combos"
+  },
+  {
+    "id": 128,
+    "name": "topos alas",
+    "price": 90000,
+    "image": "/joyeria/oro laminado/orocuatro.jpeg",
+    "description": "Pieza fina con acabado dorado.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 129,
+    "name": "pareja macrame",
+    "price": 90000,
+    "image": "/joyeria/oro laminado/orodiesiseis.jpeg",
+    "description": "pareja macrame",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 130,
+    "name": "diseño intercalado",
+    "price": 55000,
+    "image": "/joyeria/oro laminado/orodiez.jpeg",
+    "description": "balin rosa, diamantado y liso juntos",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 131,
+    "name": "pulsera buda",
+    "price": 24500,
+    "image": "/joyeria/oro laminado/orodoce.jpeg",
+    "description": "Diseño clasico con brillo sutil.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 132,
+    "name": "candongas premium ref2",
+    "price": 99000,
+    "image": "/joyeria/oro laminado/orodos.jpeg",
+    "description": "Pieza premium con tono dorado.",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 133,
+    "name": "pulsera angel",
+    "price": 55000,
+    "image": "/joyeria/oro laminado/oronueve.jpeg",
+    "description": "dama o niña, oro laminado 18K",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 134,
+    "name": "pulsera avion ref5",
+    "price": 80000,
+    "image": "/joyeria/oro laminado/oroocho.jpeg",
+    "description": "vuela alto",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 135,
+    "name": "avion ref6",
+    "price": 85000,
+    "image": "/joyeria/oro laminado/oroonce.jpeg",
+    "description": "Pieza fina con brillo duradero.",
+    "category": "oro",
+    "tipo": "otros"
+  },
+  {
+    "id": 136,
+    "name": "combo pulsera y anillo ref2",
+    "price": 180000,
+    "image": "/joyeria/oro laminado/oroquince.jpeg",
+    "description": "pulsera y anillo casi full balines",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 137,
+    "name": "pulsera intercalada macrame",
+    "price": 95000,
+    "image": "/joyeria/oro laminado/orosiete.jpeg",
+    "description": "Diseño elegante en oro laminado.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 138,
+    "name": "topos  FE",
+    "price": 95000,
+    "image": "/joyeria/oro laminado/orotrece.jpeg",
+    "description": "Brillo sutil con acabado refinado.",
+    "category": "oro",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 139,
+    "name": "3 pulseras familiar",
+    "price": 80000,
+    "image": "/joyeria/oro laminado/3normal.jpeg",
+    "description": "Oro laminado 18K con detalle clasico.",
+    "category": "oro",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 140,
+    "name": "Cadena del ref2",
+    "price": 109900,
+    "image": "/joyeria/oro laminado/cadena1.jpeg",
+    "description": "Oro laminado 18K",
+    "category": "oro",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 31,
+    "name": "pulsera chinesca",
+    "price": 150000,
+    "image": "/joyeria/plata/plataUno.jpeg",
+    "description": "19 CM, Plata ley 925 con brillo sutil.",
+    "category": "plata",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 32,
+    "name": "Pulsera chinesca",
+    "price": 140000,
+    "image": "/joyeria/plata/plataDos.jpeg",
+    "description": "18 CM,Pulsera liviana en plata 925.",
+    "category": "plata",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 33,
+    "name": "pulsera proteccion",
+    "price": 250000,
+    "image": "/joyeria/plata/plataTres.jpeg",
+    "description": "19 cm, plata 925.",
+    "category": "plata",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 34,
+    "name": "dije san miguel",
+    "price": 70000,
+    "image": "/joyeria/plata/plataCuatro.jpeg",
+    "description": "Dije para cadena.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 35,
+    "name": "dije san virgen de guadalupe",
+    "price": 70000,
+    "image": "/joyeria/plata/plataCinco.jpeg",
+    "description": "Dije en plata 925 con detalle fino.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 36,
+    "name": "cadena delagada especial",
+    "price": 220000,
+    "image": "/joyeria/plata/plataSeis.jpeg",
+    "description": "Cadena 50 CM",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 37,
+    "name": "Cadena liviana",
+    "price": 160000,
+    "image": "/joyeria/plata/plataSiete.jpeg",
+    "description": "Cadena 60 CM en plata ley 925.",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 38,
+    "name": "cadena Brillo",
+    "price": 210000,
+    "image": "/joyeria/plata/plataocho.jpeg",
+    "description": "Pulsera clasica con acabado brillante.",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 39,
+    "name": "pulsera oro plata",
+    "price": 140000,
+    "image": "/joyeria/plata/plataNueve.jpeg",
+    "description": "pulsera con neopreno, oro plata",
+    "category": "plata",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 40,
+    "name": "pulsera Espejo",
+    "price": 310000,
+    "image": "/joyeria/plata/plataDiez.jpeg",
+    "description": "19 CM pulsera con brillo sutil.",
+    "category": "plata",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 41,
+    "name": "Pulsera Trenza especial",
+    "price": 300000,
+    "image": "/joyeria/plata/plataOnce.jpeg",
+    "description": "18 CM Diseño trenzado en plata 925.",
+    "category": "plata",
+    "tipo": "pulseras"
+  },
+  {
+    "id": 42,
+    "name": "cadena Especial",
+    "price": 210000,
+    "image": "/joyeria/plata/plataDoce.jpeg",
+    "description": "60 CM cadena plata ley 925.",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 43,
+    "name": "cadena congruente",
+    "price": 90000,
+    "image": "/joyeria/plata/plata11.jpeg",
+    "description": "45 CM cadena plata ley 925.",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 44,
+    "name": "cadena gruesa chiref",
+    "price": 320000,
+    "image": "/joyeria/plata/plata12.jpeg",
+    "description": "60 CM cadena plata ley 925.",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 45,
+    "name": "cadena intrcalada",
+    "price": 260000,
+    "image": "/joyeria/plata/plata13.jpeg",
+    "description": "70 CM cadena plata ley 925.",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 46,
+    "name": "cadena chinesca delgada",
+    "price": 175000,
+    "image": "/joyeria/plata/plata14.jpeg",
+    "description": "45 CM cadena plata ley 925.",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 47,
+    "name": "cadena Especial delgada",
+    "price": 135000,
+    "image": "/joyeria/plata/plata15.jpeg",
+    "description": "50 CM cadena plata ley 925.",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 48,
+    "name": "EARCUF ref 1",
+    "price": 55000,
+    "image": "/joyeria/plata/ore1.jpeg",
+    "description": "Plata ley 925 muy bonitas para lucir.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 49,
+    "name": "EARCUF ref 2",
+    "price": 45000,
+    "image": "/joyeria/plata/ore2.jpeg",
+    "description": "Plata ley 925 muy bonitas para lucir.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 50,
+    "name": "EARCUF ref 3",
+    "price": 55000,
+    "image": "/joyeria/plata/ore3.jpeg",
+    "description": "Plata ley 925 muy bonitas para lucir.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 51,
+    "name": "EARCUF ref 4",
+    "price": 51000,
+    "image": "/joyeria/plata/ore4.jpeg",
+    "description": "Plata ley 925 muy bonitas para lucir.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 52,
+    "name": "EARCUF ref 5",
+    "price": 50000,
+    "image": "/joyeria/plata/ore5.jpeg",
+    "description": "Plata ley 925 muy bonitas para lucir.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 53,
+    "name": "EARCUF ref 6",
+    "price": 52500,
+    "image": "/joyeria/plata/ore6.jpeg",
+    "description": "Plata ley 925 muy bonitas para lucir.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 54,
+    "name": "EARCUF ref 7",
+    "price": 57000,
+    "image": "/joyeria/plata/ore7.jpeg",
+    "description": "Plata ley 925 muy bonitas para lucir.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 55,
+    "name": "EARCUF ref 8",
+    "price": 42500,
+    "image": "/joyeria/plata/ore8.jpeg",
+    "description": "Plata ley 925 muy bonitas para lucir.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 56,
+    "name": "EARCUF ref 9",
+    "price": 69900,
+    "image": "/joyeria/plata/ore9.jpeg",
+    "description": "Plata ley 925 muy bonitas para lucir.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 57,
+    "name": "EARCUF ref 10",
+    "price": 49900,
+    "image": "/joyeria/plata/ore10.jpeg",
+    "description": "Plata ley 925 muy bonitas para lucir.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 58,
+    "name": "Juego Corona",
+    "price": 99900,
+    "image": "/joyeria/plata/jue1.jpeg",
+    "description": "Plata ley 925 muy bonitas para lucir.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 59,
+    "name": "Juego mano Hamsa",
+    "price": 72000,
+    "image": "/joyeria/plata/jue2.jpeg",
+    "description": "Plata ley 925 muy bonitas para lucir.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 60,
+    "name": "Juego Huella",
+    "price": 80000,
+    "image": "/joyeria/plata/jue3.jpeg",
+    "description": "Plata ley 925 muy bonitas para lucir.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 61,
+    "name": "Juego angelito",
+    "price": 75000,
+    "image": "/joyeria/plata/jue4.jpeg",
+    "description": "Plata ley 925 muy bonitas para lucir.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 62,
+    "name": "Juego cruz dorada",
+    "price": 99900,
+    "image": "/joyeria/plata/jue5.jpeg",
+    "description": "Plata ley 925 muy bonitas para lucir.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 63,
+    "name": "Juego virgen de guadalupe",
+    "price": 120000,
+    "image": "/joyeria/plata/jue6.jpeg",
+    "description": "Plata ley 925 combo completo.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 64,
+    "name": "Juego 15años",
+    "price": 180000,
+    "image": "/joyeria/plata/jue7.jpeg",
+    "description": "Plata ley 925 combo completo.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 65,
+    "name": "Juego Hada",
+    "price": 85000,
+    "image": "/joyeria/plata/jue8.jpeg",
+    "description": "Plata ley 925 combo completo.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 66,
+    "name": "Juego Avion",
+    "price": 120000,
+    "image": "/joyeria/plata/jue9.jpeg",
+    "description": "Plata ley 925 combo completo.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 67,
+    "name": "Juego Colibri",
+    "price": 80000,
+    "image": "/joyeria/plata/jue10.jpeg",
+    "description": "Plata ley 925 combo completo.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 68,
+    "name": "Juego elefante ref1",
+    "price": 75000,
+    "image": "/joyeria/plata/jue11.jpeg",
+    "description": "Plata ley 925 combo completo.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 69,
+    "name": "Juego elefante ref2",
+    "price": 85000,
+    "image": "/joyeria/plata/jue12.jpeg",
+    "description": "Plata ley 925 combo completo.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 70,
+    "name": "Juego van cleef",
+    "price": 150000,
+    "image": "/joyeria/plata/jue13.jpeg",
+    "description": "Plata ley 925 combo completo.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 71,
+    "name": "Juego van cleef ref2",
+    "price": 270000,
+    "image": "/joyeria/plata/jue14.jpeg",
+    "description": "Plata ley 925 combo completo.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 72,
+    "name": "Dije Avion",
+    "price": 60000,
+    "image": "/joyeria/plata/di1.jpeg",
+    "description": "Plata ley 925, para que lo luzcas en tus cadenas.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 73,
+    "name": "Dije trebol",
+    "price": 75000,
+    "image": "/joyeria/plata/di2.jpeg",
+    "description": "Plata ley 925, para que lo luzcas en tus cadenas.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 74,
+    "name": "Dije FE",
+    "price": 85000,
+    "image": "/joyeria/plata/di3.jpeg",
+    "description": "Plata ley 925, para que lo luzcas en tus cadenas.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 75,
+    "name": "Dije Angel",
+    "price": 70000,
+    "image": "/joyeria/plata/di4.jpeg",
+    "description": "Plata ley 925, para que lo luzcas en tus cadenas.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 76,
+    "name": "Dije Cruz ref1",
+    "price": 80000,
+    "image": "/joyeria/plata/di5.jpeg",
+    "description": "Plata ley 925, para que lo luzcas en tus cadenas.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 77,
+    "name": "Dije Oso ref1",
+    "price": 95000,
+    "image": "/joyeria/plata/di6.jpeg",
+    "description": "Plata ley 925, para que lo luzcas en tus cadenas.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 78,
+    "name": "Dije Niño ref1",
+    "price": 85000,
+    "image": "/joyeria/plata/di7.jpeg",
+    "description": "Plata ley 925, para que lo luzcas en tus cadenas.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 79,
+    "name": "Dije corazon ref1",
+    "price": 85000,
+    "image": "/joyeria/plata/di8.jpeg",
+    "description": "Plata ley 925, para que lo luzcas en tus cadenas.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 80,
+    "name": "Dije Cruz ref2",
+    "price": 110000,
+    "image": "/joyeria/plata/di9.jpeg",
+    "description": "Plata ley 925, para que lo luzcas en tus cadenas.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 81,
+    "name": "Dije Niño santo ref1",
+    "price": 110000,
+    "image": "/joyeria/plata/di10.jpeg",
+    "description": "Plata ley 925, para que lo luzcas en tus cadenas.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 82,
+    "name": "Dije Cruz ref3",
+    "price": 110000,
+    "image": "/joyeria/plata/di11.jpeg",
+    "description": "Plata ley 925, para que lo luzcas en tus cadenas.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 84,
+    "name": "Dije Niño santo ref2",
+    "price": 85000,
+    "image": "/joyeria/plata/di13.jpeg",
+    "description": "Plata ley 925, para que lo luzcas en tus cadenas.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 85,
+    "name": "Dije virgen",
+    "price": 115000,
+    "image": "/joyeria/plata/di14.jpeg",
+    "description": "Plata ley 925, para que lo luzcas en tus cadenas.",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 86,
+    "name": "Cadena liviana lazo 40 CM",
+    "price": 170000,
+    "image": "/joyeria/plata/cad (1).jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 87,
+    "name": "Cadena liviana re1 50CM",
+    "price": 160000,
+    "image": "/joyeria/plata/cad (2).jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 88,
+    "name": "Cadena liviana cubana 50 CM",
+    "price": 150000,
+    "image": "/joyeria/plata/cad (3).jpeg",
+    "description": "Plata ley 925, 50CM",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 89,
+    "name": "Cadena Delgada singapur 45CM",
+    "price": 120000,
+    "image": "/joyeria/plata/cad (4).jpeg",
+    "description": "Plata ley 925, 45CM",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 90,
+    "name": "Cadena Del ref1 40CM",
+    "price": 170000,
+    "image": "/joyeria/plata/cad (5).jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 91,
+    "name": "Dije Familia",
+    "price": 90000,
+    "image": "/joyeria/plata/dijefal.jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 92,
+    "name": "Cadena Del ref2 50CM",
+    "price": 180000,
+    "image": "/joyeria/plata/cad (7).jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 93,
+    "name": "Cadena Balines Cristal Azul",
+    "price": 140000,
+    "image": "/joyeria/plata/cad (8).jpeg",
+    "description": "Plata ley 925,",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 94,
+    "name": "Cadena Del ref3 45CM",
+    "price": 145000,
+    "image": "/joyeria/plata/cad (9).jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 95,
+    "name": "Cadena Liviana Lazo ref2",
+    "price": 170000,
+    "image": "/joyeria/plata/cad (10).jpeg",
+    "description": "Plata ley 925, 60CM",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 96,
+    "name": "Cadena mediana ref1 60CM",
+    "price": 850000,
+    "image": "/joyeria/plata/cad (11).jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "cadenas"
+  },
+  {
+    "id": 97,
+    "name": "Tobillera Hamsa",
+    "price": 159900,
+    "image": "/joyeria/plata/tob1 (1).jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 98,
+    "name": "Tobillera Estrella",
+    "price": 150000,
+    "image": "/joyeria/plata/tob1 (2).jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 99,
+    "name": "Tobillera Mariposa Hojas",
+    "price": 140000,
+    "image": "/joyeria/plata/tob1 (3).jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 100,
+    "name": "Tobillera Corazon y Balin",
+    "price": 99900,
+    "image": "/joyeria/plata/tob1 (4).jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 101,
+    "name": "Tobillera Cristal",
+    "price": 115000,
+    "image": "/joyeria/plata/tob1 (5).jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 102,
+    "name": "Tobillera Ojos Turcos",
+    "price": 105000,
+    "image": "/joyeria/plata/tob1 (6).jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "otros"
+  },
+  {
+    "id": 103,
+    "name": "Topos Corazon ref1",
+    "price": 99900,
+    "image": "/joyeria/plata/top (1).jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 104,
+    "name": "Topos Oso",
+    "price": 110000,
+    "image": "/joyeria/plata/top (2).jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 105,
+    "name": "Topos Hada Microcircon",
+    "price": 80000,
+    "image": "/joyeria/plata/top (3).jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 106,
+    "name": "Topos Conejita",
+    "price": 99900,
+    "image": "/joyeria/plata/top (4).jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "topos-aretes"
+  },
+  {
+    "id": 107,
+    "name": "Candonga ref1",
+    "price": 45000,
+    "image": "/joyeria/plata/top (5).jpeg",
+    "description": "Plata ley 925",
+    "category": "plata",
+    "tipo": "otros"
+  }
+]
