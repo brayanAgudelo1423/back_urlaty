@@ -11,9 +11,9 @@ const __dirname = dirname(__filename);
 
 const app = express();
 const PORT = process.env.PORT || 4001;
-const PRODUCTS_PATH = join(__dirname, "data", "products.json");
-const ALIADA_JOYERIA_PATH = join(__dirname, "data", "aliada-joyeria.json");
-const ALIADA_GALLERIES_PATH = join(__dirname, "data", "aliada-galleries.json");
+const PRODUCTS_PATH = join(process.cwd(), "data", "products.json");
+const ALIADA_JOYERIA_PATH = join(process.cwd(), "data", "aliada-joyeria.json");
+const ALIADA_GALLERIES_PATH = join(process.cwd(), "data", "aliada-galleries.json");
 const UPLOADS_DIR = join(__dirname, "uploads");
 
 const GALLERY_SECTIONS = ["cadena_cadenas", "cadena_dijes", "pulsera_balineria", "pulsera_herrajes", "pulsera_dijes"];
